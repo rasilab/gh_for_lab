@@ -10,7 +10,7 @@
    - **Repository Name:** Choose a brief, descriptive name for your project, such as `opsin_evolution`.  
    - **Privacy Setting:** Select the `private` option to keep your repository secure.
   
-2. **Edit files**
+2. **Edit files**  
    You have multiple options:
    - Edit any file on the GitHub.com website by clicking the <img src="https://github.com/user-attachments/assets/2e2320f1-8102-436c-bb04-76d6a04b462d" width=20px/> icon in the page displaying the file.
    - You can use a cloud version of VScode to edit file in a more "editor"-like environment. To do this, substitute `github.com` by `github.dev` in the file URL keeping everything else the same.
