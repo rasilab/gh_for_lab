@@ -9,14 +9,20 @@
    After verifying your email, return to this repository and click `Use this template` > `Create a new repository`.  
    - **Repository Name:** Choose a brief, descriptive name for your project, such as `opsin_evolution`.  
    - **Privacy Setting:** Select the `private` option to keep your repository secure.
+  
+2. **Edit files**
+   You have multiple options:
+   - Edit any file on the GitHub.com website by clicking the <img src="https://github.com/user-attachments/assets/2e2320f1-8102-436c-bb04-76d6a04b462d" width=20px/> icon in the page displaying the file.
+   - You can use a cloud version of VScode to edit file in a more "editor"-like environment. To do this, substitute `github.com` by `github.dev` in the file URL keeping everything else the same.
+   - You can also edit the file in any other text editor on your local computer. Instructions for using VScode locally are provided below. 
 
-3. **Download Visual Studio Code**  
+4. **Download Visual Studio Code**  
    Install [Visual Studio Code](https://code.visualstudio.com/download) on your computer.
 
-4. **Sign In to GitHub in VS Code**  
+5. **Sign In to GitHub in VS Code**  
    Open Visual Studio Code and log in with your GitHub account credentials.
 
-5. **Install Git**  
+6. **Install Git**  
    **For Mac Users:**  
    Open the terminal and run:
 
@@ -29,14 +35,14 @@
    git --version
    ```
 
-6. **Clone Your Repository**  
+7. **Clone Your Repository**  
    To import (clone) your repository to your local computer:  
    - Open the Command Palette in VS Code (Cmd+Shift+P on macOS or Ctrl+Shift+P on Windows/Linux).  
    - Type "Git: Clone" and select it.  
    - Paste your repository URL and choose a local directory for saving the project.
    - Refer to this [guide](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_clone-a-repository-locally) for help.
 
-7. **Track Changes and Synchronize Repositories**  
+8. **Track Changes and Synchronize Repositories**  
    Use the Source Control panel in VS Code (Ctrl+Shift+G) to manage changes. A detailed step-by-step guide is available [here](https://code.visualstudio.com/docs/sourcecontrol/intro-to-git#_staging-and-committing-code-changes)
 
 ## How to use this template
