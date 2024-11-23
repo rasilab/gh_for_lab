@@ -1,0 +1,19 @@
+[
+  {
+    "id": "Boettiger2015",
+    "accessed": { "date-parts": [[2024, 8, 11]] },
+    "author": [{ "family": "Boettiger", "given": "Carl" }],
+    "citation-key": "Boettiger2015",
+    "container-title": "SIGOPS Oper. Syst. Rev.",
+    "DOI": "10.1145/2723872.2723882",
+    "ISSN": "0163-5980",
+    "issue": "1",
+    "issued": { "date-parts": [[2015, 1, 20]] },
+    "page": "71–79",
+    "source": "ACM Digital Library",
+    "title": "An introduction to Docker for reproducible research",
+    "type": "article-journal",
+    "URL": "https://doi.org/10.1145/2723872.2723882",
+    "volume": "49"
+  }
+]

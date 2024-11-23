@@ -1,0 +1,1 @@
+Do not store data files in the repository. Instead, create symbolic links from where the data is stored (e.g. server or cloud-based storage) so it can be easily accessed in the future.

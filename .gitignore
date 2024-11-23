@@ -1,0 +1,4 @@
+## Use this file to indicate which files should not be tracked by git
+
+# macOS metadata files
+.DS_Store

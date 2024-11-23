@@ -1,0 +1,6 @@
+sample_id,reporter,group
+0t1,gfp,control
+0t2,gfp,control
+0t3,rfp,control
+0t4,rfp,control
+0t5,gfp,treatment
