@@ -12,7 +12,7 @@ Copy-Paste from Issue.
 
 ## Strategy
 
-Copy-Pate from Issue.
+Copy-Paste from Issue.
 
 ## Procedure
 
